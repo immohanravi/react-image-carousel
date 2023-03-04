@@ -1,2 +1,3 @@
-# react-image-carousel
-Created with CodeSandbox
+# React Material UI Carousel Demo
+
+Nothing to see here. Move along.
